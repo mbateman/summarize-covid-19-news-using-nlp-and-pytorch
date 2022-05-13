@@ -128,3 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 16119_db21c91a1ab47385bb13773ed8238c31/
+datasubset/
+Solution_*
+*.pth
+*.txt
+/runs
